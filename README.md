@@ -11,9 +11,9 @@ sudo apt-get install gcc-multilib
 sudo apt-get install qemu
 sudo apt-get install git
 
-then clone the git
+Then clone the git
 
-git clone 
+git clone https://github.com/C-Society/Xv6_systemcall.git
 
 cd xv6
 
