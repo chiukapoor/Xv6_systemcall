@@ -13,7 +13,7 @@ sudo apt-get install git
 ```
 Then clone the git
 
-git clone https://github.com/C-Society/Xv6_systemcall.git
+`git clone https://github.com/C-Society/Xv6_systemcall.git`
 
 `cd xv6`
 
