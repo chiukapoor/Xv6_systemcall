@@ -32,4 +32,6 @@ It will list all the commands. So basically I have included 2 programs in it.
 
 "Hello world this is our first program on Xv6"
 
-2. System call **getyear** which displays the year in which the UNIX version of Xv6 is designed
+2. System call **getyear** whose output is 
+
+"The year in which the UNIX version of Xv6 is designed"
