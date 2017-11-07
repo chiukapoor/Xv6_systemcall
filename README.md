@@ -15,7 +15,7 @@ Then clone the git
 
 `git clone https://github.com/C-Society/Xv6_systemcall.git`
 
-`cd xv6`
+`cd Xv6_systemcall`
 
 As I have already done all the required things.Time to compile and run xv6 system on QEMU emulator.
 
