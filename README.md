@@ -17,6 +17,10 @@ Then clone the git
 
 `cd Xv6_systemcall`
 
+Change the privilages of file **sign.pl**
+
+`Chmod 770 sign.pl`
+
 As I have already done all the required things.Time to compile and run xv6 system on QEMU emulator.
 
 `make`
